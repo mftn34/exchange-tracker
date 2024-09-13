@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable-xhdpi/border_custom_dialog_bakiyeolustur.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable-xhdpi/dsadsadsadsadasborder_custom_dialog_bakiyeolustur.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/account.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/btnsignin_gradient.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/btnsignup_gradient.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/button_approve.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/button_back.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/button_classic.xml" value="0.25435897435897437" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/button_general.xml" value="0.25435897435897437" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/button_shape.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/buttonshapeforsell.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/customborder.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/edittext_background.xml" value="0.16203703703703703" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/magnify.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/rectangle.xml" value="0.3453703703703704" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/rectangle_showChatDesign.xml" value="0.3453703703703704" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/drawable/rectangle_show_chat_design.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/account.xml" value="0.3546195652173913" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/activity_chat.xml" value="0.3368146214099217" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/activity_possessions.xml" value="0.3241206030150754" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/activity_pwreset.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/activity_registration.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/activity_splash_scr.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/activity_varliklarim.xml" value="0.371875" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/app_bar_main.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/chat_message.xml" value="0.3546195652173913" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/content_main.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/fragment_CurrentExchange.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/fragment_current_exchange.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/fragment_possessions.xml" value="0.1" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/fragment_profil.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/fragment_profile.xml" value="0.23324275362318841" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/fragment_save_buying.xml" value="0.25625" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/layout_include_application_information.xml" value="0.25625" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/layout_rows.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/nav_header_main.xml" value="0.2554347826086957" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/layout/toolbar_chatting.xml" value="0.3546195652173913" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/menu/activity_main_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/menu/bottom_navigation.xml" value="0.371875" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/menu/main.xml" value="0.371875" />
+        <entry key="..\:/Users/furka/Documents/Android_projects/app/src/main/res/menu/post_menu.xml" value="0.19722222222222222" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.20885416666666667" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
